@@ -1,0 +1,4 @@
+repository "MoveMMD@rentantan121029@cloud"
+  path "/"
+    br "/main"
+    co "/main"
